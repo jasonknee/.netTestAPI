@@ -1,0 +1,11 @@
+/Users/jasonghe/Projects/testAPI/testAPI/bin/Debug/netcoreapp2.0/testAPI.deps.json
+/Users/jasonghe/Projects/testAPI/testAPI/bin/Debug/netcoreapp2.0/testAPI.runtimeconfig.json
+/Users/jasonghe/Projects/testAPI/testAPI/bin/Debug/netcoreapp2.0/testAPI.runtimeconfig.dev.json
+/Users/jasonghe/Projects/testAPI/testAPI/bin/Debug/netcoreapp2.0/testAPI.dll
+/Users/jasonghe/Projects/testAPI/testAPI/bin/Debug/netcoreapp2.0/testAPI.pdb
+/Users/jasonghe/Projects/testAPI/testAPI/obj/Debug/netcoreapp2.0/testAPI.csprojResolveAssemblyReference.cache
+/Users/jasonghe/Projects/testAPI/testAPI/obj/Debug/netcoreapp2.0/testAPI.csproj.CoreCompileInputs.cache
+/Users/jasonghe/Projects/testAPI/testAPI/obj/Debug/netcoreapp2.0/testAPI.AssemblyInfoInputs.cache
+/Users/jasonghe/Projects/testAPI/testAPI/obj/Debug/netcoreapp2.0/testAPI.AssemblyInfo.cs
+/Users/jasonghe/Projects/testAPI/testAPI/obj/Debug/netcoreapp2.0/testAPI.dll
+/Users/jasonghe/Projects/testAPI/testAPI/obj/Debug/netcoreapp2.0/testAPI.pdb
